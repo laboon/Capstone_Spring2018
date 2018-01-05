@@ -8,8 +8,7 @@
 
 **Instructor's Office Hours:**
   * Room: 6305 Sennott Square
-  * Fridays 9:00 AM - 12:00 Noon 
-  * or by appointment.
+  * Tuesday 12:00 Noon - 3:00 PM
 
 _NOTE: You will also be meeting with the customer with whom you are working or one of their representatives._
 
