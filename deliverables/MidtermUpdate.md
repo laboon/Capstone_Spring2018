@@ -1,7 +1,7 @@
 # CS CAPSTONE
-Fall Semester 2017
+Spring Semester 2018
 
-## DUE DATE: FRIDAY 20 OCTOBER 2017
+## DUE DATE: 23 FEBRUARY 2018
 
 ## MIDTERM UPDATE PAPER
 
@@ -11,7 +11,7 @@ It is not required for students in the internship or research sections (CS1900, 
 
 ## FORMATTING REQUIREMENTS
 
-The paper must be 3 pages or more in length, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is encouraged, especially if it helps me to understand the .  Margins should be of standard size (1" or less).
+The paper must be 2 pages or more in length, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is encouraged, especially if it helps me to understand the .  Margins should be of standard size (1" or less).
 
 Please ensure that your name as well as the name of the project you worked on is listed, along with the name of the customer.
 

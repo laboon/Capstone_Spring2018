@@ -1,112 +1,94 @@
-# Capstone Syllabus - Fall 2017
+# Capstone Syllabus - Spring 2018
 
 _Although the instructor will make a best effort to have the class topic on the day listed, occasionally a change must be made (e.g., a lecture going long, or a guest lecturer unable to make it to class that day).  However, these are the topics that will be covered and the expected date that they will be taught._
 
-## WEEK 1 (1 Sep)
+## WEEK 1 (12 Jan)
 
 * Introduction
 
 * Project Students: Project Selection
 
-## WEEK 2 (8 Sep)
+## WEEK 2 (19 Jan)
 
-* TECH TALK: BNY Mellon
+* Internship presentations
 
 * Project Students
   * Project begins!
   * LECTURE: The Agile/Scrum Process
 
-## WEEK 3 (15 Sep)
+## WEEK 3 (26 Jan)
 
-* STUDENT PRESENTATIONS
+* Internship presentations
 
 * Project Students
   * LECTURE: Requirements Elicitation
 
-## WEEK 4 (22 Sep)
+## WEEK 4 (2 Feb)
 
-* TECH TALK: NetApp
+* TECH TALK: Panasas
 
 * Project Students
   * Project proposal due (one per group)
   * LECTURE: Intro to Retrospectives
 
-## WEEK 5 (29 Sep)
+## WEEK 5 (9 Feb)
 
-* STUDENT PRESENTATIONS
-
-* Project Students
-  * LECTURE: Ethics in Software Engineering
-
-## WEEK 6 (6 Oct)
-
-* TECH TALK: Deloitte
+* Internship presentations
 
 * Project Students
   * Retrospective / Sprint Planning
 
-## WEEK 7 (13 Oct)
+## WEEK 6 (16 Feb)
 
-* STUDENT PRESENTATIONS
+* Tech Talk (HM Health Solutions)
 
-* Project Students
-  * LECTURE: Esoteric Programming Languages
+## WEEK 7 (23 Feb)
 
-## WEEK 8 (20 Oct)
-
-* TECH TALK: Google
+* Internship presentations
 
 * Project Students
   * Retrospective / Sprint Planning
   * Midterm Status Report due (one per group)
 
-## WEEK 9 (27 Oct)
+## WEEK 8 (2 Mar)
 
-* STUDENT PRESENTATIONS
+* TECH TALK: Grant Street Group
 
-* Project Students:
-  * LECTURE: The Power of Ruby
+## WEEK 9 (9 Mar)
 
-## WEEK 10 (3 Nov)
+NO CLASS - SPRING BREAK
 
-* TECH TALK: Yelp
+## WEEK 10 (16 Mar)
 
-* Project Students
-  * Retrospective / Sprint Planning
+* Internship presentations
 
-## WEEK 11 (10 Nov)
+## WEEK 11 (23 Mar)
 
-* STUDENT PRESENTATIONS
-
-* Project Students
-  * LECTURE: The Power of Rust
-
-## WEEK 12 (17 Nov)
-
-* STUDENT PRESENTATIONS
+* TECH TALK: NetApp
 
 * Project Students
   * Retrospective / Sprint Planning
 
-## WEEK 13 (24 Nov)
+## WEEK 12 (30 Mar)
 
-NO CLASS - THANKSGIVING BREAK
+* Internship presentations
 
-## WEEK 14 (1 DEC)
+## WEEK 13 (6 Apr)
 
-* STUDENT PRESENTATIONS
-
-* Project Students
-  * Project Presentations
-
-## WEEK 15 (8 DEC)
-
-* STUDENT PRESENTATIONS
-  * For students in 1900, papers due
+* TECH TALK: UPMC Enterprise
 
 * Project Students
-  * Project Presentations
-  * Final paper due
+  * Retrospective / Sprint Planning
+
+## WEEK 14 (13 Apr)
+
+* Project presentations
+
+## WEEK 15 (20 Apr)
+
+* Project presentations
+
+* ALL STUDENTS: FINAL PAPERS DUE!
 
 
 

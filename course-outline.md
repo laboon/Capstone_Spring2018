@@ -8,15 +8,15 @@
 
 **Instructor's Office Hours:**
   * Room: 6305 Sennott Square
-  * Tuesday 12:00 Noon - 3:00 PM
+  * Tuesdays 12:00 Noon - 3:00 PM
 
-_NOTE: You will also be meeting with the customer with whom you are working or one of their representatives._
+_NOTE: You may also meet with the customer with whom you are working or one of their representatives._
 
-Attendance during presentations is **REQUIRED**.  If you will miss a class, it must be cleared with me first unless it is an emergency.  In the event of an emergency, let me know as soon as possible.
+Attendance during presentations is **REQUIRED**.  You are allowed to miss one class per semester without penalty, and you do not need to contact me.  Otherwise, if you will miss a class, it must be cleared with me first unless it is an emergency.  In the event of an emergency, let me know as soon as possible.
 
-All students submit paper on their internship or project, as well as give an approximately 5-10 minute presentation on what they have done.  
+All students shall submit a paper on their internship or project, as well as give an approximately 5-10 minute presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per grop.
 
-In general, the 1:00-1:50 section of the class will rotate between tech talks from industry and presentations from students.
+In general, the 1:00-1:50 section of the class will rotate between tech talks from industry and presentations from students (internship students first, then project students at the end of the term).  The additional time for project students will consist of lectures on software engineering for the first few lectures, and then shall be used as time for meeting with groups / sprint retrospectives / planning / etc.
 
 Project students will also need to submit some other assignments, detailed below.
 
@@ -30,7 +30,7 @@ Proposal Paper (Due 26 Jan 2018) -
 Midterm Update (Due 23 Feb 2018) - 
   * See MidtermUpdate.md
 
-Final Project Presentation (13 Apr 2018) -
+Final Project Presentation (13 / 20 Apr 2018) -
   * An approximately ten minute talk and/or demo of the software
   * Include features and technical decisions
   
