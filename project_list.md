@@ -1,4 +1,4 @@
-# Project Assignments
+# Project List
 
 Please file your top THREE choices as an issue (will go over in class) by Wednesday () morning at 11:59 AM (i.e., right before noon).  Please list them in the order that you prefer them.  You will be informed as to your project during the next Capstone class on Friday 8 Sep.  If you do not file an issue by then, I will assume you do not care which project you are on and I will place uncommitted students on whichever projects still need people.
 
@@ -16,7 +16,7 @@ _Yelp Chatbot_ - Yelp will support a student team in building a chatbot using ou
 
 ### NetApp
 
-NetApp is developing a product called ONTAP Select Deploy which is a Debian-based VM for orchestrating the deployment of ONTAP Select clusters in a hypervisor environment. For Deploy, we are interested in the future of allowing SSO type login, especially for customers who are using ESX. VMware exposes APIs for authenticating against a vCenter. That is, they offer external identity verification like FB, Google, etc. do for the web.
+_ONTAP Select Deploy_ - NetApp is developing a product called ONTAP Select Deploy which is a Debian-based VM for orchestrating the deployment of ONTAP Select clusters in a hypervisor environment. For Deploy, we are interested in the future of allowing SSO type login, especially for customers who are using ESX. VMware exposes APIs for authenticating against a vCenter. That is, they offer external identity verification like FB, Google, etc. do for the web.
  
 For the project, the students would be responsible for the following items:
  

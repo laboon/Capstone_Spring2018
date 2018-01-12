@@ -12,13 +12,23 @@
 
 _NOTE: You may also meet with the customer with whom you are working or one of their representatives._
 
-Attendance during presentations is **REQUIRED**.  You are allowed to miss one class per semester without penalty, and you do not need to contact me.  Otherwise, if you will miss a class, it must be cleared with me first unless it is an emergency.  In the event of an emergency, let me know as soon as possible.
+Attendance during presentations is **REQUIRED**.  You are allowed to miss one class per semester without penalty, and you do not need to contact me if you do so.  Otherwise, if you will miss a class, it must be cleared with me first unless it is an emergency.  In the event of an emergency, let me know as soon as possible.
 
 All students shall submit a paper on their internship or project, as well as give an approximately 5-10 minute presentation on what they have done.  For students doing group projects, only one paper should be submitted per group and one presentation will be given per grop.
 
 In general, the 1:00-1:50 section of the class will rotate between tech talks from industry and presentations from students (internship students first, then project students at the end of the term).  The additional time for project students will consist of lectures on software engineering for the first few lectures, and then shall be used as time for meeting with groups / sprint retrospectives / planning / etc.
 
 Project students will also need to submit some other assignments, detailed below.
+
+## Internship Students
+
+You have three main responsibilities this term:
+
+1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates are located in the presentation_schedule.md file in this repository.  Note you must select a date where INTERNSHIP presentations occur, NOT "Project" presentations.  You must schedule a presentation date by noon on THIS WEDNESDAY (17 January).
+
+2. Write a 5 - 10 page paper on your internship experience and hand it in by 20 April.  For details, see FinalPaper.md in the /deliverables subdirectory in this repository.
+
+3. Attend all classes.  There will be a sign-in sheet starting at the second class.
 
 ## Project Students
 
