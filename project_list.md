@@ -16,7 +16,15 @@ _Yelp Chatbot_ - Yelp will support a student team in building a chatbot using ou
 
 ### NetApp
 
-
+NetApp is developing a product called ONTAP Select Deploy which is a Debian-based VM for orchestrating the deployment of ONTAP Select clusters in a hypervisor environment. For Deploy, we are interested in the future of allowing SSO type login, especially for customers who are using ESX. VMware exposes APIs for authenticating against a vCenter. That is, they offer external identity verification like FB, Google, etc. do for the web.
+ 
+For the project, the students would be responsible for the following items:
+ 
+1. Set up a Debian-based VM in a VMWare vCenter (vCenter is provided)
+2. Set up a user account for SSH access with UNIX credentials (username/password on the local machine)
+3. Set up vCenter based authentication for SSH login. That is, when the user tries to log in via SSH, let them do so with valid vCenter credentials.
+4. Set up an Nginx web server on the VM and have it serve some pages behind basic authentication
+5. Set up Nginx to allow for the vCenter credential authentication flow as well
 
 ### Viz
 
@@ -32,7 +40,7 @@ _Gutenberg_ - Gutenberg is a new editor experience for WordPress, the open sourc
 
 ## Faculty Projects
 
-### Cryptocurrency Code Quality Analyzer
+### Cryptocurrency Code Quality Analysis
 
 _Code Quality Analyzer_ - While cryptocurrency is a burgeoning field at the moment, many projects are of poor quality or are not well-tested.  The goal of this project is threefold.  The first is to determine what constitutes good metrics of code quality and test coverage in relation to a cryptocurrency code base - these are preferably objective and calculable as opposed to subjective.  The second is to determine a list of major cryptocurrencies (e.g. Bitcoin, Ethereum, Litecoin, etc.) and analyze their codebases, and collate this information.  Finally, if time permits, I would like to make this an entirely automated process (e.g., clone the relevant repositories down once per week, run the appropriate tools, and post the results).  Note that this project will be polyglot - you will have to work in several different languages and learn new static analysis tools.  Previous knowledge of cryptocurrency and blockchain technology is not strictly necessary but interest in it is essential. (POC: Bill Laboon, University of Pittsburgh, Computer Science)
 
@@ -70,3 +78,4 @@ _Augmented Reality in Clinical Training_ - Create an augmented reality environme
 ### Durrant Lab
 
 _Web-Based Drug Discovery_ - The Durrant Lab creates drug-discovery software for analyzing small molecules and proteins. Unfortunately, our software is not always user friendly, and it sometimes requires extensive computer resources. These challenges limit broader adoption. Working with Pitt's Center for Resource Computing and the Network Operating Center, we have begun to build an online system that will allow users to submit their calculations through a web-browser and to run those calculations in the cloud. This project involves building browser-based HTML/JavaScript components (e.g., text boxes, option boxes, etc.) that will allow the user to interact with our system. Familiarity with JavaScript (or, even better, TypeScript) and HTML is essential. The project will require about 10 hours per week.
+
