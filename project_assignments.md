@@ -17,7 +17,7 @@ _Window Shopping for Data_
 
 ### WordPress
 
-_Gutenberg_ - 
+_Gutenberg_  
 
 ## Faculty Projects
 
@@ -31,7 +31,7 @@ _Pharmacy Quiz Game_
 
 ### PILLab 
 
-_PILLab website transformation_ -
+_PILLab website transformation_ 
 
 ### OCCAM Projects
 
@@ -45,13 +45,14 @@ _PILLab website transformation_ -
 
 ### Sheep and Goat Tracker
 
-_Sheep and Goat Tracker_ - 
+_Sheep and Goat Tracker_
+
 ### Sterile Compounding Augmented Reality
 
 _Augmented Reality in Clinical Training_ 
 
 ### Durrant Lab
 
-_Web-Based Drug Discovery_ - 
-
-## Other
+_Web-Based Drug Discovery_ 
+ 
+## Other (TBD)
