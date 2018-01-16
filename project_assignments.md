@@ -16,9 +16,9 @@ _Window Shopping for Data_ (4-5 students)
 
 ## Open-Source
 
-### WordPress (4-5 students)
+### WordPress
 
-_Gutenberg_  
+_Gutenberg_  (4-5 students)
 
 ## Faculty Projects
 
