@@ -2,6 +2,8 @@
 
 Please file your top THREE choices as an issue (will go over in class) by Wednesday () morning at 11:59 AM (i.e., right before noon).  Please list them in the order that you prefer them.  You will be informed as to your project during the next Capstone class on Friday 8 Sep.  If you do not file an issue by then, I will assume you do not care which project you are on and I will place uncommitted students on whichever projects still need people.
 
+REMEMBER TO ADD "PROJECT" TO THE BEGINNING OF YOUR ISSUE TITLE!
+
 Along with your selections, please include any qualifications or specific reasons for interest that you have for those specific projects.   Remember that you are "interviewing" for the project against others, especially if you have selected popular projects.   Students who respond early also show enthusiasm for the projects, which goes a long way to showing that they actually want to do them.
 
 I will attempt to place you in one of your top three choices.  Last semester, every student got into one of their top three (and a majority into their #1 choice), although I do not make any guarantees.
@@ -46,7 +48,7 @@ _Code Quality Analyzer_ - While cryptocurrency is a burgeoning field at the mome
 
 ### Pharmacy Quiz Game
 
-_Pharmacy Quiz Game_ The PILLab and School of Dental Medicine seek to combine two separate quiz game applications into a unified system. This essentially requires quality assurance testing of the merged databases and the design of a consolidated view offering access to all quizzes. There may be an additional opportunity to re-design the leaderboard and its underlying mechanics. Students who work on this project will gain experience in full-stack (LAMP) development, with an emphasis in database design and interface design under the guidance of domain and technical experts. Successful completion of this project will result in the product being tested directly with users to complete an iteration of the development cycle. (POC: Jonathan Velez, University of Pittsburgh, Information Science and Dr. Ravi Patel, University of Pittsburgh, School of Pharmacy)
+_Pharmacy Quiz Game_ - The PILLab and School of Dental Medicine seek to combine two separate quiz game applications into a unified system. This essentially requires quality assurance testing of the merged databases and the design of a consolidated view offering access to all quizzes. There may be an additional opportunity to re-design the leaderboard and its underlying mechanics. Students who work on this project will gain experience in full-stack (LAMP) development, with an emphasis in database design and interface design under the guidance of domain and technical experts. Successful completion of this project will result in the product being tested directly with users to complete an iteration of the development cycle. (POC: Jonathan Velez, University of Pittsburgh, Information Science and Dr. Ravi Patel, University of Pittsburgh, School of Pharmacy)
 
 
 ### PILLab 

@@ -4,18 +4,19 @@
 
 ### Yelp
 
-_Yelp Chatbot_
+_Yelp Chatbot_ (4-5 students)
+
 ### NetApp
 
-_ONTAP Select Deploy_
+_ONTAP Select Deploy_ (4-5 students)
 
 ### Viz
 
-_Window Shopping for Data_ 
+_Window Shopping for Data_ (4-5 students)
 
 ## Open-Source
 
-### WordPress
+### WordPress (4-5 students)
 
 _Gutenberg_  
 
@@ -23,36 +24,36 @@ _Gutenberg_
 
 ### Cryptocurrency Code Quality Analysis
 
-_Code Quality Analyzer_ 
+_Code Quality Analyzer_ (4-5 students)
 
 ### Pharmacy Quiz Game
 
-_Pharmacy Quiz Game_ 
+_Pharmacy Quiz Game_ (4-5 students)
 
 ### PILLab 
 
-_PILLab website transformation_ 
+_PILLab website transformation_ (3-4 students)
 
 ### OCCAM Projects
 
-* _Development of interactive user interfaces for OCCAM_ 
+* _Development of interactive user interfaces for OCCAM_ (2-4 students)
 
-* _Extending OCCAM to provide a system-level virtual environment with Vagrant_ 
+* _Extending OCCAM to provide a system-level virtual environment with Vagrant_ (2-4 students)
 
-* _Deploying hardware specific SRAM,FRAM experiments with OCCAM and Arduino/Rasp. Pi_
+* _Deploying hardware specific SRAM,FRAM experiments with OCCAM and Arduino/Rasp. Pi_ (2-4 students)
 
 ## Bioinformatics-focused
 
-### Sheep and Goat Tracker
+### Sheep and Goat Tracker 
 
-_Sheep and Goat Tracker_
+_Sheep and Goat Tracker_ (4-5 students)
 
 ### Sterile Compounding Augmented Reality
 
-_Augmented Reality in Clinical Training_ 
+_Augmented Reality in Clinical Training_ (4-5 students)
 
 ### Durrant Lab
 
-_Web-Based Drug Discovery_ 
+_Web-Based Drug Discovery_ (4 students)
  
 ## Other (TBD)

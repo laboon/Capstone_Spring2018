@@ -24,7 +24,7 @@ Project students will also need to submit some other assignments, detailed below
 
 You have three main responsibilities this term:
 
-1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates are located in the presentation_schedule.md file in this repository.  Note you must select a date where INTERNSHIP presentations occur, NOT "Project" presentations.  You must schedule a presentation date by noon on THIS WEDNESDAY (17 January).
+1. Schedule a presentation on the work that you did during your internship.  Do this by filing an issue on this repository (click on Issues then "New Issue") with your TOP THREE choices of which date to give your presentation.  Possible presentation dates are located in the presentation_schedule.md file in this repository.  Note you must select a date where INTERNSHIP presentations occur, NOT "Project" presentations.  You must schedule a presentation date by noon on THIS WEDNESDAY (17 January).  REMEMBER TO ADD "INTERNSHIP" TO THE BEGINNING OF YOUR ISSUE TITLE!
 
 2. Write a 5 - 10 page paper on your internship experience and hand it in by 20 April.  For details, see FinalPaper.md in the /deliverables subdirectory in this repository.
 
