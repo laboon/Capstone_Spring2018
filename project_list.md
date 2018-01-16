@@ -55,6 +55,12 @@ _Pharmacy Quiz Game_ - The PILLab and School of Dental Medicine seek to combine 
 
 _PILLab website transformation_ - The PILLab is seeking to transform their current website (www.pillab.tech) into a communication and branding platform for their organization. This essentially requires the development an administrative dashboard for managing content, the implementation of session management strategies, and the production of scripts used to dynamically present content. Students who work on this project will gain experience in full-stack (LAMP) development, with an emphasis in database design and interface design under the guidance of domain and technical experts. This product will go live into service upon completion of the project, and will make an excellent professional achievement in any student’s portfolio. (Jonathan Velez, University of Pittsburgh, Information Science and Dr. Ravi Patel, University of Pittsburgh, School of Pharmacy)
 
+### Hardware / Software Interface
+
+_Hardware / Software Interface_ - The students will run some piece of hardware within the extent of its parameters and collect data to dynamically generate a report.  The application itself would consist of a client-server relationship accessible over a local network and web browser, to facilitate remote testing.  The hardware will be provided in the form of a Raspberry Pi testing some conglomeration of motors, similar to the Fast Steering Mirror for the F35.
+
+NOTE: This class will also include "classes" on proper interface design and testing.  The goal is to eventually make this project into a course.
+
 ### OCCAM Projects
 
 Software curation has been growing in importance in the last decade as studies show that experimental results are hard to reproduce. As reproducibility evolves, along with data and software, and artifact curation, tools are being developed to support it. One such tool is OCCAM, and is being developed right here in the CS Dept at the University of Pittsburgh. (POC: Dr. Daniel Mosse)
