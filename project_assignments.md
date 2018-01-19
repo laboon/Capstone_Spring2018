@@ -108,3 +108,4 @@ _Web-Based Drug Discovery_ (4 students)
 - Yogindra Raghav
 - Patrick Healy
 - Andrew Stengel
+- Faiha Khan
