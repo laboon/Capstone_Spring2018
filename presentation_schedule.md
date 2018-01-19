@@ -34,6 +34,7 @@
 - Kelly Morrison
 - Tim Ruppen
 - Andrew Speers
+- Andrew Stengel
 
 ## 2 Mar TECH TALK (Grant Street Group)
 
