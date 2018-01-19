@@ -26,6 +26,10 @@ _Window Shopping for Data_
 - Zachary Mell
 - Kevin Moore
 - Eric Hochendoner
+- Tegpartap Singh
+
+## Hardware / Software
+  - Andrew Panzl
 
 ## Open-Source
 
@@ -74,11 +78,11 @@ _PILLab website transformation_
 
 * _Extending OCCAM to provide a system-level virtual environment with Vagrant_
   - Ryan Pollich
-  - Tegpartap Singh
 
 * _Deploying hardware specific SRAM,FRAM experiments with OCCAM and Arduino/Rasp. Pi_
   - Keith Arnold
-  - Andrew Panzl
+
+
 
 ## Bioinformatics-focused
 

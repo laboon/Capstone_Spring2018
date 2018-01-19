@@ -3,7 +3,7 @@
 ## 19 Jan (INTERNSHIP PRESENTATIONS ONLY)
 - William Hinard *
 - Zachary Bugay *
-- Michael Grasser
+- Michael Grasser *
 - Matt Walheim *
 
 ## 26 Jan (INTERNSHIP PRESENTATIONS ONLY)
