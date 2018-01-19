@@ -25,11 +25,12 @@ _Window Shopping for Data_
 - Daniel O'Neill
 - Zachary Mell
 - Kevin Moore
-- Eric Hochendoner
 - Tegpartap Singh
 
 ## Hardware / Software
-  - Andrew Panzl
+- Andrew Panzl
+- Eric Hochendoner
+- Robert Colleran
 
 ## Open-Source
 
@@ -109,3 +110,4 @@ _Web-Based Drug Discovery_
 - Andrew Stengel
 - Faiha Khan
 - Shuranya Bandla
+- John Kelly
