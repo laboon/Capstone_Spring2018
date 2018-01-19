@@ -32,6 +32,7 @@
 - Andrew Masih
 - Kelly Morrison
 - Tim Ruppen
+- Andrew Speers
 
 ## 2 Mar TECH TALK (Grant Street Group)
 
@@ -41,6 +42,8 @@
 - Michael Zheng
 - Udayan Gupta
 - Jason Hildreth
+- Jamie Min
+- Austin Marcus
 
 ## 23 Mar TECH TALK (NetApp)
 
