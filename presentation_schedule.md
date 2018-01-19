@@ -43,7 +43,7 @@
 - Udayan Gupta
 - Jason Hildreth
 - Jamie Min
-- Austin Marcus
+- Susan Vagell
 
 ## 23 Mar TECH TALK (NetApp)
 
@@ -54,6 +54,7 @@
 - Brandon La
 - Zhuo Song
 - Evan Gutman
+- Austin Marcus
 
 ## 6 Apr TECH TALK (UPMC Enterprise)
 
