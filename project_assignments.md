@@ -87,7 +87,6 @@ _PILLab website transformation_
 _Sheep and Goat Tracker_
 - Matt Eckelmeyer
 - Kristi Bushman
-- Jesse Kaminsky
 - Karnbir Singh
 - Surim Kim
  

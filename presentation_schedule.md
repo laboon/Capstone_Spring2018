@@ -1,10 +1,10 @@
 # Presentation Schedule
 
 ## 19 Jan (INTERNSHIP PRESENTATIONS ONLY)
-- William Hinard
-- Zachary Bugay
+- William Hinard *
+- Zachary Bugay *
 - Michael Grasser
-- Matt Walheim
+- Matt Walheim *
 
 ## 26 Jan (INTERNSHIP PRESENTATIONS ONLY)
 - Nicholas Smider
