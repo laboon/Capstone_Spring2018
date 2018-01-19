@@ -109,5 +109,5 @@ _Web-Based Drug Discovery_
 - Patrick Healy
 - Andrew Stengel
 - Faiha Khan
-- Shuranya Bandla
+- Sharanya Bandla
 - John Kelly
