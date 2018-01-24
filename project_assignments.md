@@ -78,10 +78,12 @@ _PILLab website transformation_
   - Leonard Maynard
 
 * _Extending OCCAM to provide a system-level virtual environment with Vagrant_
+  - Ryan Pollich
 
 * _Deploying hardware specific SRAM,FRAM experiments with OCCAM and Arduino/Rasp. Pi_
   - Keith Arnold
-  - Ryan Pollich
+
+
 
 ## Bioinformatics-focused
 
