@@ -7,12 +7,12 @@
 - Matt Walheim *
 
 ## 26 Jan (INTERNSHIP PRESENTATIONS ONLY)
-- Nicholas Smider
-- Jahvon Dockery
-- Alexis Aquiatan
-- Luke Kraus
-- Roy Gustafson
-- Ishtar Nyawira
+- Nicholas Smider *
+- Jahvon Dockery *
+- Alexis Aquiatan *
+- Luke Kraus *
+- Roy Gustafson *
+- Ishtar Nyawira *
 
 ## 2 Feb - TECH TALK (Panasas)
 
@@ -24,6 +24,7 @@
 - Sabrina Aravena
 - Brett Schreiber
 - Christian Jarani
+- Paul Davis
 
 ## 16 Feb TECH TALK (HM Health)
 
