@@ -11,7 +11,7 @@ Your presentation will be approximately 10 minutes.   This presentation should g
 
 Your presentation will be 5 to 10 minutes.  It will be on one of the following dates:
 
-You can choose a _preferred_ date by 6 September by creating an _issue_ on the class GitHub repo ( https://github.com/laboon/Capstone_Spring2018 ).  Note that this is a _preferred_, not _guaranteed_ date.  I will do my best to put any student who asks for a specific date on that date on a first-come, first-served basis.
+You can choose a _preferred_ date by creating an _issue_ on the class GitHub repo ( https://github.com/laboon/Capstone_Spring2018 ).  Note that this is a _preferred_, not _guaranteed_ date.  I will do my best to put any student who asks for a specific date on that date on a first-come, first-served basis.
 
 Instructions for selecting a preferred date or dates:
 
