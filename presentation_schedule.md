@@ -23,6 +23,7 @@
 - Matthew Bialecki
 - Sabrina Aravena
 - Brett Schreiber
+- Spencer Rakoczy
 
 ## 16 Feb TECH TALK (HM Health)
 
