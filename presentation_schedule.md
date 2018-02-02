@@ -1,18 +1,18 @@
 # Presentation Schedule
 
 ## 19 Jan (INTERNSHIP PRESENTATIONS ONLY)
-- William Hinard
-- Zachary Bugay
-- Michael Grasser
-- Matt Walheim
+- William Hinard *
+- Zachary Bugay *
+- Michael Grasser *
+- Matt Walheim *
 
 ## 26 Jan (INTERNSHIP PRESENTATIONS ONLY)
-- Nicholas Smider
-- Jahvon Dockery
-- Alexis Aquiatan
-- Luke Kraus
-- Roy Gustafson
-- Ishtar Nyawira
+- Nicholas Smider *
+- Jahvon Dockery *
+- Alexis Aquiatan *
+- Luke Kraus *
+- Roy Gustafson *
+- Ishtar Nyawira *
 
 ## 2 Feb - TECH TALK (Panasas)
 
@@ -23,7 +23,8 @@
 - Matthew Bialecki
 - Sabrina Aravena
 - Brett Schreiber
-- Spencer Rakoczy
+- Christian Jarani
+- Paul Davis
 
 ## 16 Feb TECH TALK (HM Health)
 
@@ -34,6 +35,8 @@
 - Kelly Morrison
 - Tim Ruppen
 - Andrew Speers
+- Andrew Stengel
+- Spencer Rakoczy
 
 ## 2 Mar TECH TALK (Grant Street Group)
 
@@ -43,8 +46,8 @@
 - Michael Zheng
 - Udayan Gupta
 - Jason Hildreth
+- Jamie Min
 - Susan Vagell
-- Austin Marcus
 
 ## 23 Mar TECH TALK (NetApp)
 
@@ -55,6 +58,7 @@
 - Brandon La
 - Zhuo Song
 - Evan Gutman
+- Austin Marcus
 
 ## 6 Apr TECH TALK (UPMC Enterprise)
 

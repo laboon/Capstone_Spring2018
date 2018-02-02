@@ -34,10 +34,10 @@ You have three main responsibilities this term:
 
 Details on Assignments:
 
-Proposal Paper (Due 26 Jan 2018) -
+Proposal Paper (Due 2 Feb 2018) -
   * See Proposal.md
 
-Midterm Update (Due 23 Feb 2018) - 
+Midterm Update (Due 2 Mar 2018) - 
   * See MidtermUpdate.md
 
 Final Project Presentation (13 / 20 Apr 2018) -

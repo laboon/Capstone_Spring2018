@@ -30,29 +30,36 @@ _Although the instructor will make a best effort to have the class topic on the 
 * Project Students
   * Project proposal due (one per group)
   * LECTURE: Intro to Retrospectives
+  * Retrospective / Sprint Planning
 
 ## WEEK 5 (9 Feb)
 
 * Internship presentations
 
 * Project Students
-  * Retrospective / Sprint Planning
-
+  * Meeting time
+  
 ## WEEK 6 (16 Feb)
 
 * Tech Talk (HM Health Solutions)
+
+* Project Students
+  * Retrospective / Sprint Planning
 
 ## WEEK 7 (23 Feb)
 
 * Internship presentations
 
 * Project Students
-  * Retrospective / Sprint Planning
-  * Midterm Status Report due (one per group)
+  * Meeting time
 
 ## WEEK 8 (2 Mar)
 
 * TECH TALK: Grant Street Group
+
+* Project Students
+  * Retrospective / Sprint Planning
+  * Midterm Status Report due (one per group)
 
 ## WEEK 9 (9 Mar)
 
@@ -72,6 +79,9 @@ NO CLASS - SPRING BREAK
 ## WEEK 12 (30 Mar)
 
 * Internship presentations
+
+* Project Students
+  * Meeting time
 
 ## WEEK 13 (6 Apr)
 
