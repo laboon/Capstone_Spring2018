@@ -36,6 +36,7 @@
 - Tim Ruppen
 - Andrew Speers
 - Andrew Stengel
+- Spencer Rakoczy
 
 ## 2 Mar TECH TALK (Grant Street Group)
 
@@ -47,6 +48,7 @@
 - Jason Hildreth
 - Jamie Min
 - Susan Vagell
+- Kyle Amoroso
 
 ## 23 Mar TECH TALK (NetApp)
 
