@@ -17,14 +17,14 @@
 ## 2 Feb - TECH TALK (Panasas)
 
 ## 9 Feb (INTERNSHIP PRESENTATIONS ONLY)
-- Jacob Winkler
-- Andrew Henry
-- Daler Rahimov
-- Matthew Bialecki
-- Sabrina Aravena
-- Brett Schreiber
-- Christian Jarani
-- Paul Davis
+- Jacob Winkler *
+- Andrew Henry *
+- Daler Rahimov *
+- Matthew Bialecki *
+- Sabrina Aravena *
+- Brett Schreiber x
+- Christian Jarani *
+- Paul Davis *
 
 ## 16 Feb TECH TALK (HM Health)
 
