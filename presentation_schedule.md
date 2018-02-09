@@ -48,6 +48,7 @@
 - Jason Hildreth
 - Jamie Min
 - Susan Vagell
+- Kyle Amoroso
 
 ## 23 Mar TECH TALK (NetApp)
 
