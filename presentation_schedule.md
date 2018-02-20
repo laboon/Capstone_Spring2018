@@ -22,7 +22,7 @@
 - Daler Rahimov *
 - Matthew Bialecki *
 - Sabrina Aravena *
-- Brett Schreiber x
+- Brett Schreiber *
 - Christian Jarani *
 - Paul Davis *
 
