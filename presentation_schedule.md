@@ -29,14 +29,14 @@
 ## 16 Feb TECH TALK (HM Health)
 
 ## 23 Feb (INTERNSHIP PRESENTATIONS ONLY)
-- Zinan Zhuang
-- Fransisca K Larasati
-- Andrew Masih
-- Kelly Morrison
-- Tim Ruppen
-- Andrew Speers
-- Andrew Stengel
-- Spencer Rakoczy
+- Zinan Zhuang *
+- Fransisca K Larasati *
+- Andrew Masih *
+- Kelly Morrison *
+- Tim Ruppen *
+- Andrew Speers *
+- Andrew Stengel *
+- Spencer Rakoczy *
 
 ## 2 Mar TECH TALK (Grant Street Group)
 
