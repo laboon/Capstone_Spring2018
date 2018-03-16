@@ -41,14 +41,14 @@
 ## 2 Mar TECH TALK (Grant Street Group)
 
 ## 16 Mar (INTERNSHIP PRESENTATIONS ONLY)
-- Mary Vo
-- Joseph Faraci
-- Michael Zheng
-- Udayan Gupta
-- Jason Hildreth
-- Jamie Min
-- Susan Vagell
-- Kyle Amoroso
+- Mary Vo *
+- Joseph Faraci *
+- Michael Zheng *
+- Udayan Gupta *
+- Jason Hildreth *
+- Jamie Min *
+- Susan Vagell *
+- Kyle Amoroso *
 
 ## 23 Mar TECH TALK (NetApp)
 
