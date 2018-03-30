@@ -54,12 +54,12 @@
 
 ## 30 Mar (INTERNSHIP PRESENTATIONS ONLY)
 - Gideon Shils o
-- David Duan
-- Michael Smith
-- Brandon La
-- Zhuo Song
-- Evan Gutman
-- Austin Marcus
+- David Duan *
+- Michael Smith *
+- Brandon La *	
+- Zhuo Song *
+- Evan Gutman *
+- Austin Marcus *
 
 ## 6 Apr TECH TALK (UPMC Enterprise)
 
