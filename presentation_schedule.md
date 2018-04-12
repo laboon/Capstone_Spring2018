@@ -64,6 +64,21 @@
 ## 6 Apr TECH TALK (UPMC Enterprise)
 
 ## 13 Apr (PROJECT PRESENTATIONS ONLY)
+- (1:00) Pharmacy Quiz Game
+- (1:00) Durrant #2
+- (1:00) Hardware/Software
+- (1:00) OCCAM / Vagrant
+- (2:00) Crypto quality
+- (2:00) Yelp Chatbot
+- (2:00) OCCAM / Arduino
+- (2:00) NetApp
 
 ## 20 Apr (PROJECT PRESENTATIONS ONLY)
-
+- (1:00) PILLab
+- (1:00) Koes Group
+- (1:00) Viz
+- (1:00) Gutenberg
+- (2:00) Durrant #1
+- (2:00) OCCAM / UI
+- (2:00) FIRST PATHWAYS
+- (2:00) Sheep and Goat
