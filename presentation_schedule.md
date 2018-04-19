@@ -53,7 +53,7 @@
 ## 23 Mar TECH TALK (NetApp)
 
 ## 30 Mar (INTERNSHIP PRESENTATIONS ONLY)
-- Gideon Shils o
+- Gideon Shils *
 - David Duan *
 - Michael Smith *
 - Brandon La *	
