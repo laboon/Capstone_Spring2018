@@ -74,11 +74,11 @@
 - (2:00) NetApp *
 
 ## 20 Apr (PROJECT PRESENTATIONS ONLY)
-- (1:00) PILLab
-- (1:00) Koes Group
-- (1:00) Viz
-- (1:00) Gutenberg
-- (2:00) Durrant #1
-- (2:00) OCCAM / UI
-- (2:00) FIRST PATHWAYS
-- (2:00) Sheep and Goat
+- (1:00) PILLab *
+- (1:00) Koes Group * 
+- (1:00) Viz *
+- (1:00) Gutenberg *
+- (2:00) Durrant #1 *
+- (2:00) OCCAM / UI *
+- (2:00) FIRST PATHWAYS *
+- (2:00) Sheep and Goat *
